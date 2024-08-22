@@ -1,0 +1,9 @@
+#card {
+  background-color: rgba(0, 0, 255, 0.384);
+  width: 400px;
+  height: 200px;
+}
+#image {
+  width: 100px;
+  height: 100px;
+}
